@@ -1,0 +1,32 @@
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Executables
+bin/
+
+# Go build and test files
+*.o
+*.a
+_test
+
+# Go test cache and coverage files
+*.test
+*.cover
+
+# Dependency directories
+vendor/
+Godeps/
+
+# Compiled output
+*.out
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/

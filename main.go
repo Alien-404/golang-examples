@@ -60,6 +60,6 @@ func main() {
 		})
 	})
 
-	// Jalankan aplikasi pada port 3000
+	// Jalankan aplikasi pada port 8080
 	log.Fatal(app.Listen(":8080"))
 }
